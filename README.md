@@ -8,4 +8,4 @@ For more info on bmCacheSharer try https://ramblings.mcpher.com/?s=bmCacheSharer
 ## Library reference
 17IbCJbPqwEhAUCq-ePZGpUILT_w7tnVBGmmzU1p394nM_lzqX0NPYa2_
 
-Now update manually with details of this project - this skeleton file is committed only when there is no README.md in the repo.
+More info at https://ramblings.mcpher.com/gassnippets2/sharing-cache-between-google-workspace-projects/
